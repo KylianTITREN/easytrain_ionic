@@ -1,0 +1,65 @@
+<ion-header no-border>
+<ion-toolbar color="#fff">
+    <ion-title color="primary" fontSize="19pt">easytrain</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+
+  <div class="muscle-list">
+
+    <div class="title-text">
+      <p>Que souhaitez-vous travailler<br>aujourd’hui ?</p>
+    </div>
+
+      <ion-badge *ngFor="let m of muscles">
+        {{m.nom}}
+      </ion-badge>
+
+    <div class="align-center">
+      <ion-button shape="round" size="default" color="primary">Trouver son programme  ></ion-button>
+    </div>
+
+  </div>
+
+  <div class="title-text">
+    <p>Nous avons sélectionnés quelques<br>programmes pour vous</p>
+  </div>
+
+  <ion-slides>
+    <ion-slide>
+      <ion-card>
+        <ion-img src="/assets/sport.jpg"></ion-img>
+        <ion-card-header>
+          <ion-card-title>Programme bras + pectoraux</ion-card-title>
+        </ion-card-header>
+        <ion-card-content>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-slide>
+    <ion-slide>
+      <ion-card>
+        <ion-img src="/assets/sport.jpg"></ion-img>
+        <ion-card-header>
+          <ion-card-title>Programme bras + pectoraux</ion-card-title>
+        </ion-card-header>
+        <ion-card-content>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-slide>
+    <ion-slide>
+      <ion-card>
+        <ion-img src="/assets/sport.jpg"></ion-img>
+        <ion-card-header>
+          <ion-card-title>Programme bras + pectoraux</ion-card-title>
+        </ion-card-header>
+        <ion-card-content>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-slide>
+  </ion-slides>
+
+</ion-content>
