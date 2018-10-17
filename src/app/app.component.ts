@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 import * as firebase from 'firebase';
+import 'firebase/auth';
+import 'firebase/firestore';
 
 import { Platform } from '@ionic/angular';
 import { SplashScreen } from '@ionic-native/splash-screen/ngx';

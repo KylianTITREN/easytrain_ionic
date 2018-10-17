@@ -6,6 +6,7 @@ import { HomePage } from '../home/home.page';
 import { AboutPage } from '../about/about.page';
 import { ContactPage } from '../contact/contact.page';
 import { ExplorerPage } from '../explorer/explorer.page';
+import { SearchPage } from "../search/search.page";
 
 
 const routes: Routes = [
@@ -37,6 +38,11 @@ const routes: Routes = [
         path: 'explorer',
         outlet: 'explorer',
         component: ExplorerPage
+      },
+      {
+        path: 'search',
+        outlet: 'search',
+        component: SearchPage
       }
     ]
   },

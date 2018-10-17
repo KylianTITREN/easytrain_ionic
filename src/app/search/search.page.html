@@ -1,0 +1,13 @@
+<ion-header no-border>
+  <ion-toolbar color="#fff">
+    <ion-searchbar animated placeholder="Rechercher" (ionInput)="getItems($event)"></ion-searchbar>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+
+  <ion-badge *ngFor="let m of muscles">
+    {{m.nom}}
+  </ion-badge>
+
+</ion-content>

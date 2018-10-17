@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { AlertController } from '@ionic/angular';
+import {AlertController } from '@ionic/angular';
 import { Router, ActivatedRoute } from '@angular/router';
-import * as firebase from 'Firebase';
+import * as firebase from 'firebase';
 
 @Component({
   selector: 'app-explorer',
