@@ -15,6 +15,7 @@ export class TabsPage {
 }
 
 export const musclesDB = firebase.database().ref('muscles/');
+export const exercicesDB = firebase.database().ref('exercices/');
 
 export const snapshotToArray = snapshot => {
     let returnArr = [];

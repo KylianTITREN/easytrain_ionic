@@ -15,8 +15,16 @@
       <p>Que souhaitez-vous travailler<br>aujourd’hui ?</p>
     </div>
 
-      <ion-badge *ngFor="let m of muscles">
+      <ion-badge *ngFor="let m of muscles" (click)="showExercices(m.key)" [ngClass]="{'menu_selectedItem': (selectedIndex === m.key) }">
         {{m.nom}}
+      </ion-badge>
+
+    <div class="title-text">
+      <p>Exercices</p>
+    </div>
+
+      <ion-badge *ngFor="let ex of exercices">
+        {{ex.nom}}
       </ion-badge>
 
     <div class="align-center">
