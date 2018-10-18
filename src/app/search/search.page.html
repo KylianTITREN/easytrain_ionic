@@ -6,7 +6,7 @@
 
 <ion-content padding>
 
-  <ion-badge *ngFor="let m of muscles">
+  <ion-badge *ngFor="let m of muscles" (click)="showExercices">
     {{m.nom}}
   </ion-badge>
 
