@@ -6,15 +6,7 @@ import 'firebase/firestore';
 import { Platform } from '@ionic/angular';
 import { SplashScreen } from '@ionic-native/splash-screen/ngx';
 import { StatusBar } from '@ionic-native/status-bar/ngx';
-
-const config = {
-    apiKey: "AIzaSyCA-NwbwTUgobRRrq5BvmnBXnP0wPYvqIQ",
-    authDomain: "easytrain-1527172497956.firebaseapp.com",
-    databaseURL: "https://easytraindb.firebaseio.com",
-    projectId: "easytrain-1527172497956",
-    storageBucket: "easytrain-1527172497956.appspot.com",
-    messagingSenderId: "984968686708"
-};
+import {FIREBASE_CONFIG} from "./firebase.credentials";
 
 @Component({
   selector: 'app-root',
@@ -30,10 +22,11 @@ export class AppComponent {
   }
 
   initializeApp() {
-    this.platform.ready().then(() => {
-      this.statusBar.styleDefault();
-      this.splashScreen.hide();
-    });
-      firebase.initializeApp(config);
+      this.platform.ready().then(() => {
+
+          this.statusBar.styleDefault();
+          this.splashScreen.hide(); // <-- hide static image
+      });
+      firebase.initializeApp(FIREBASE_CONFIG)
   }
 }

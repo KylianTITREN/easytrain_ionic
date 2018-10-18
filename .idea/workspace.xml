@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/easytrain/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/easytrain/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/android/icon/drawable-hdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-hdpi-icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/android/icon/drawable-ldpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-ldpi-icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/android/icon/drawable-mdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-mdpi-icon.png" afterDir="false" />
@@ -24,40 +25,12 @@
       <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-xhdpi-screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-xhdpi-screen.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxhdpi-screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxhdpi-screen.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxxhdpi-screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxxhdpi-screen.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-1024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-50@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-72@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-76@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-83.5@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-small@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon-small@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/icon/icon@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-568h@2x~iphone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-667h.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-736h.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape-736h.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape@~ipadpro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Portrait@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Portrait@~ipadpro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default-Portrait~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default@2x~iphone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default@2x~universal~anyany.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/ios/splash/Default~iphone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/explorer/explorer.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/explorer/explorer.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/search/search.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/search/search.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/tabs/tabs.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/tabs/tabs.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/tabs/tabs.router.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/tabs/tabs.router.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/global.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -71,56 +44,58 @@
     <session id="-177928205">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="22" />
+          <entry key="gradlew" value="1" />
+          <entry key="html" value="25" />
           <entry key="js" value="1" />
           <entry key="png" value="5" />
-          <entry key="scss" value="7" />
-          <entry key="ts" value="62" />
-          <entry key="xml" value="2" />
+          <entry key="scss" value="9" />
+          <entry key="ts" value="75" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="22" />
+          <entry key="HTML" value="25" />
           <entry key="Image" value="5" />
           <entry key="JavaScript" value="1" />
-          <entry key="SCSS" value="7" />
-          <entry key="TypeScript" value="62" />
-          <entry key="XML" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SCSS" value="9" />
+          <entry key="TypeScript" value="75" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="Angular2LanguageService" value="5" />
+          <entry key="Angular2LanguageService" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1189" />
-          <entry key="scss" value="568" />
-          <entry key="ts" value="2370" />
-          <entry key="txt" value="35" />
-          <entry key="xml" value="36" />
+          <entry key="html" value="1228" />
+          <entry key="scss" value="755" />
+          <entry key="ts" value="2953" />
+          <entry key="txt" value="45" />
+          <entry key="xml" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1189" />
-          <entry key="PLAIN_TEXT" value="35" />
-          <entry key="SCSS" value="568" />
-          <entry key="TypeScript" value="2370" />
-          <entry key="XML" value="36" />
+          <entry key="HTML" value="1228" />
+          <entry key="PLAIN_TEXT" value="45" />
+          <entry key="SCSS" value="755" />
+          <entry key="TypeScript" value="2953" />
+          <entry key="XML" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -133,11 +108,89 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+            <state relative-caret-position="210">
+              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/tabs/tabs.page.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/tabs/tabs.router.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/search/search.page.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/explorer/explorer.page.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/app-routing.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/global.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -152,24 +205,29 @@
       <list>
         <option value="$PROJECT_DIR$/src/environments/environment.ts" />
         <option value="$PROJECT_DIR$/src/app/firebase.credentials.ts" />
-        <option value="$PROJECT_DIR$/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/src/models/exercices/exercice-item.interface.ts" />
-        <option value="$PROJECT_DIR$/src/global.scss" />
         <option value="$PROJECT_DIR$/src/app/explorer/explorer.module.ts" />
         <option value="$PROJECT_DIR$/src/app/explorer/explorer.page.scss" />
         <option value="$PROJECT_DIR$/src/app/search/search.module.ts" />
         <option value="$PROJECT_DIR$/src/app/search/search.page.html" />
         <option value="$PROJECT_DIR$/src/app/search/search.page.scss" />
-        <option value="$PROJECT_DIR$/src/app/tabs/tabs.router.module.ts" />
-        <option value="$PROJECT_DIR$/src/app/explorer/explorer.page.ts" />
         <option value="$PROJECT_DIR$/src/app/tabs/tabs.module.ts" />
-        <option value="$PROJECT_DIR$/src/app/app-routing.module.ts" />
         <option value="$PROJECT_DIR$/src/app/tabs/tabs.page.html" />
         <option value="$PROJECT_DIR$/src/app/home/home.page.html" />
         <option value="$PROJECT_DIR$/src/app/explorer/explorer.page.html" />
-        <option value="$PROJECT_DIR$/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/src/app/search/search.page.ts" />
+        <option value="$PROJECT_DIR$/src/app/splash/splash.page.ts" />
+        <option value="$PROJECT_DIR$/src/app/splash/splash.page.scss" />
+        <option value="$PROJECT_DIR$/src/app/splash/splash.page.html" />
+        <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/src/global.scss" />
+        <option value="$PROJECT_DIR$/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/tabs/tabs.page.ts" />
+        <option value="$PROJECT_DIR$/src/app/explorer/explorer.page.ts" />
+        <option value="$PROJECT_DIR$/src/app/search/search.page.ts" />
+        <option value="$PROJECT_DIR$/src/app/tabs/tabs.router.module.ts" />
       </list>
     </option>
   </component>
@@ -215,6 +273,47 @@
       <path value="$PROJECT_DIR$/platforms/android/cordova/node_modules/wrappy/package.json" />
       <path value="$PROJECT_DIR$/platforms/android/cordova/node_modules/xmlbuilder/package.json" />
       <path value="$PROJECT_DIR$/platforms/android/cordova/node_modules/xmldom/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ansi/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/big-integer/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/bplist-creator/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/bplist-parser/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-registry-mapper/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/elementtree/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/node_modules/bplist-parser/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/plist/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/q/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/shelljs/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simctl/node_modules/shelljs/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simctl/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/node_modules/plist/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/tail/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/underscore/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/unorm/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xml-escape/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xmlbuilder/package.json" />
+      <path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xmldom/package.json" />
       <path value="$PROJECT_DIR$/plugins/cordova-plugin-device/package.json" />
       <path value="$PROJECT_DIR$/plugins/cordova-plugin-device/tests/package.json" />
       <path value="$PROJECT_DIR$/plugins/cordova-plugin-ionic-keyboard/package.json" />
@@ -246,6 +345,38 @@
             <path>
               <item name="et_ionic" type="b2602c69:ProjectViewProjectNode" />
               <item name="et_ionic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="et_ionic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="et_ionic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="et_ionic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="et_ionic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="et_ionic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="et_ionic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="explorer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="et_ionic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="et_ionic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="et_ionic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="et_ionic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="tabs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,7 +421,8 @@
       <workItem from="1539781276837" duration="3439000" />
       <workItem from="1539800491543" duration="4007000" />
       <workItem from="1539806027665" duration="616000" />
-      <workItem from="1539845931395" duration="183000" />
+      <workItem from="1539845931395" duration="2647000" />
+      <workItem from="1539849149516" duration="7219000" />
     </task>
     <task id="LOCAL-00001" summary="add pages and images">
       <created>1539760281245</created>
@@ -306,17 +438,24 @@
       <option name="project" value="LOCAL" />
       <updated>1539770213108</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="reload ios">
+      <created>1539846168668</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539846168668</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30883000" />
+    <option name="totallyTimeSpent" value="40566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29499468" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29818955" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -369,7 +508,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add pages and images" />
     <MESSAGE value="search ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="search ok" />
+    <MESSAGE value="reload ios" />
+    <option name="LAST_COMMIT_MESSAGE" value="reload ios" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/environments/environment.ts">
@@ -379,34 +519,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/firebase.credentials.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/icon/favicon.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/models/exercices/exercice-item.interface.ts" />
-    <entry file="file://$PROJECT_DIR$/src/global.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/firebase/storage/dist/index.cjs.js">
@@ -439,16 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/tabs/tabs.router.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/tabs/tabs.page.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/search/search.page.spec.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -472,25 +582,11 @@
     <entry file="file://$PROJECT_DIR$/src/app/tabs/tabs.page.spec.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/splash.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/android/icon/drawable-hdpi-icon.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/icon.png">
       <provider selected="true" editor-type-id="images" />
@@ -502,38 +598,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/explorer/explorer.page.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="50" selection-start-column="50" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/explorer/explorer.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/search/search.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/search/search.page.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -551,10 +619,139 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/splash/splash.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/splash/splash.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/splash/splash.page.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/splash/splash.page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        <state relative-caret-position="255">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/explorer/explorer.page.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/explorer/explorer.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/firebase.credentials.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/explorer/explorer.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/search/search.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/tabs/tabs.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/tabs/tabs.router.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

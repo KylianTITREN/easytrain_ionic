@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import {AlertController } from '@ionic/angular';
-import { Router, ActivatedRoute } from '@angular/router';
-import * as firebase from 'firebase';
+import {Router} from "@angular/router";
+import {musclesDB, snapshotToArray} from "../tabs/tabs.page";
 
 @Component({
   selector: 'app-explorer',
@@ -11,10 +10,9 @@ import * as firebase from 'firebase';
 export class ExplorerPage implements OnInit {
 
     muscles = [];
-    ref = firebase.database().ref('muscles/');
 
     constructor(public router: Router) {
-        this.ref.on('value', resp => {
+        musclesDB.on('value', resp => {
             this.muscles = [];
             this.muscles = snapshotToArray(resp);
         });
@@ -25,14 +23,3 @@ export class ExplorerPage implements OnInit {
 
 }
 
-export const snapshotToArray = snapshot => {
-    let returnArr = [];
-
-    snapshot.forEach(childSnapshot => {
-        let item = childSnapshot.val();
-        item.key = childSnapshot.key;
-        returnArr.push(item);
-    });
-
-    return returnArr;
-};

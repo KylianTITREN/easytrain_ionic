@@ -10,6 +10,19 @@
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
 
+@font-face {
+  font-family: GoogleSans;
+  src: url(assets/fonts/GoogleSans-Regular.ttf) format("ttf");
+}
+@font-face {
+  font-family: COCOGOOSE;
+  src: url(assets/fonts/cocogoose.otf) format("otf");
+}
+
+body {
+  font-family: GoogleSans;
+}
+
 //HEADER
 
 ion-toolbar{
@@ -19,6 +32,6 @@ ion-toolbar{
 }
 
 ion-title{
-  font-family: 'COCOGOOSE';
+  font-family: COCOGOOSE;
   font-size: 14pt;
 }

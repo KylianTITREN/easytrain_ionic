@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import * as firebase from "firebase";
-import {snapshotToArray} from "../explorer/explorer.page";
+import {musclesDB, snapshotToArray} from "../tabs/tabs.page";
 
 @Component({
   selector: 'app-search',
@@ -9,15 +9,14 @@ import {snapshotToArray} from "../explorer/explorer.page";
 })
 export class SearchPage implements OnInit {
 
-    muscles = [];
-    ref = firebase.database().ref('muscles/');
+    public muscles = [];
 
     constructor() {
 
     }
 
     getItems(searchbar) {
-        this.ref.on('value', resp => {
+        musclesDB.on('value', resp => {
             this.muscles = [];
             this.muscles = snapshotToArray(resp);
         });
